@@ -1,0 +1,4 @@
+solder-host
+*.syslib
+*.o
+.sysl/
