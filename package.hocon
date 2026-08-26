@@ -7,5 +7,5 @@ package {
 
 // The language is an ordinary coordinate, so this builds from a fresh clone.
 dependencies {
-  solder { git = "github.com/sysl-lang/solder", version = "0.4.0" }
+  solder { git = "github.com/sysl-lang/solder", version = "0.4.1" }
 }
