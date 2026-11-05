@@ -3,10 +3,10 @@
 package {
   name    = "solder-host"
   version = "0.1.0"
-  sysl    = "0.6.0"
+  sysl    = "0.9.0"
 }
 
 // The language is an ordinary coordinate, so this builds from a fresh clone.
 dependencies {
-  solder { git = "github.com/sysl-lang/solder", version = "0.4.2" }
+  solder { git = "github.com/sysl-lang/solder", version = "0.4.3" }
 }
